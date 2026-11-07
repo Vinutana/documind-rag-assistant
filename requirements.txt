@@ -1,0 +1,21 @@
+streamlit
+python-dotenv
+google-generativeai
+
+#langchain framework
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+#Gemini API integration
+langchain-google-genai
+
+#vector database
+faiss-cpu
+
+#embedding models
+sentence-transformers
+
+#PDF processing
+pymupdf
